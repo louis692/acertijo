@@ -6,6 +6,7 @@
 2. Fila 2 (5-6-2): Ninguno es correcto
 3. Fila 3 (8-3-0): Dos son correctos, pero solo uno está bien puesto
 4. Fila 4 (1-8-5): Dos son correctos, pero no están bien puestos
+
 #combinacion correcta (8,  1,  3)
 
 # Instrucciones del juego
