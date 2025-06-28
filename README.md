@@ -1,5 +1,7 @@
 #juego del acertijo
+
 Este programa se trata de adivinar el número, implementa un juego interactivo basado en el acertijo del candado donde el usuario debe adivinar una combinación de 3 dígitos basándose en pistas.
+
 #Las pistas son:
 
 1. Fila 1 (3-2-1):  dos números son correctos y no está bien puestos
