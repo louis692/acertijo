@@ -20,10 +20,10 @@ Este programa se trata de adivinar el número, implementa un juego interactivo b
 4. Usa las pistas para deducir la combinación.
    
 # Como funciona el juego
-Este juego EMPIEXZ con un pequeño menu interactivo que contiene las opciones, al inicar y observar las pistas le pedira que introduzca tres digitos individualmente
+Este juego empieza con un pequeño menu interactivo que contiene las opciones, al inicar y observar las pistas le pedira que introduzca tres digitos individualmente
 los cuales de la misma manera  se realizara la respectiva validacion de entrada que consta de verficar si el numero ingresado es un digito entre 0 y 9 tambien se
-valida que la entrada no sea letras ni simbolos de lo contrario mostrara un error y pedira que ingrese nuevamente el digito, despes de ingresar cada numero tambien
-recibira una retroalimentacion que pueden ser 3 condiciones:
+valida que la entrada no sea letras ni simbolos de lo contrario mostrara un error y pedira que ingrese nuevamente el digito, despues de ingresar cada numero
+tambien recibira una retroalimentacion que pueden ser 3 condiciones:
 1. El numero es correcto
 2. El numero pertenece a la combinacion
 3. El numero es incorrecto
